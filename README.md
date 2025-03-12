@@ -1,0 +1,2 @@
+# spreadsheetfilter
+semantically filter spreadsheets
